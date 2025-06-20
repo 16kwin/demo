@@ -13,7 +13,7 @@ public class ppp {
     @Column(name="\"Machine\"")
     private String transaction;
     
-    @Column(name = "\"Status_PPP\"")
+    @Column(name = "\"Status_ppp\"")
     private String status;
 
     @Column(name = "\"Count_days_PPP\"")
